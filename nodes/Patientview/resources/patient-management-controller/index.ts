@@ -334,7 +334,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "userId",
@@ -352,7 +352,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Group Id",
+			"displayName": "Group ID",
 			"name": "groupId",
 			"required": true,
 			"description": "groupId",
@@ -370,7 +370,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identifier Id",
+			"displayName": "Identifier ID",
 			"name": "identifierId",
 			"required": true,
 			"description": "identifierId",
@@ -407,7 +407,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "userId",
@@ -425,7 +425,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Group Id",
+			"displayName": "Group ID",
 			"name": "groupId",
 			"required": true,
 			"description": "groupId",
@@ -443,7 +443,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identifier Id",
+			"displayName": "Identifier ID",
 			"name": "identifierId",
 			"required": true,
 			"description": "identifierId",
@@ -648,7 +648,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "userId",
@@ -666,7 +666,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Group Id",
+			"displayName": "Group ID",
 			"name": "groupId",
 			"required": true,
 			"description": "groupId",
@@ -684,7 +684,7 @@ export const patientManagementControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identifier Id",
+			"displayName": "Identifier ID",
 			"name": "identifierId",
 			"required": true,
 			"description": "identifierId",

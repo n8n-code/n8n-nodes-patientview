@@ -7,14 +7,14 @@ import { patientManagementControllerDescription } from './resources/patient-mana
 
 export class Patientview implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'patientview',
+		displayName: 'Patientview',
 		name: 'N8nDevPatientview',
 		icon: { light: 'file:./patientview.png', dark: 'file:./patientview.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Recommended REST API endpoints to be used when integrating with PatientView',
-		defaults: { name: 'patientview' },
+		defaults: { name: 'Patientview' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

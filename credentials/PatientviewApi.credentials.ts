@@ -8,7 +8,7 @@ import type {
 export class PatientviewApi implements ICredentialType {
 	name = 'N8nDevPatientviewApi';
 
-	displayName = 'patientview API';
+	displayName = 'Patientview API';
 
 	icon: Icon = { light: 'file:../nodes/Patientview/patientview.png', dark: 'file:../nodes/Patientview/patientview.dark.png' };
 
@@ -22,7 +22,7 @@ export class PatientviewApi implements ICredentialType {
 			default: 'https://www.patientview.org/',
 			required: true,
 			placeholder: 'https://www.patientview.org/',
-			description: 'The base URL of your patientview API server',
+			description: 'The base URL of your Patientview API server',
 		},
 		{
 			displayName: 'API Key',

@@ -73,7 +73,7 @@ export const authControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "apiKey",
 			"type": "string",
 			"default": "",

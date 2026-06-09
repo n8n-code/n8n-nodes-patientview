@@ -73,7 +73,7 @@ export const observationControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "userId",
@@ -214,7 +214,7 @@ export const observationControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "userId",
@@ -269,7 +269,7 @@ export const observationControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "userId",

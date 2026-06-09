@@ -53,13 +53,50 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Auth Controller | Post log in, Delete log out, Get basic user information |
-| Observation Controller | Get observations of multiple types for a user, Get observations of a certain type for a user, Get patient entered observations of a certain type for a user |
-| Observation Heading Controller | Get available observations types for a user, Get available patient entered observations types for a user |
-| Patient Controller | Get basic patient information |
-| Patient Management Controller | Getpatientmanagementdiagnoses, Getpatientmanagementlookuptypes, Post validatepatientmanagement, Getpatientmanagement, Post savepatientmanagement, Post savepatientmanagementsurgeries |
+<details>
+<summary><b>Auth Controller</b> (3 operations)</summary>
+
+- Post Log In
+- Delete Log Out
+- Get Basic User Information
+
+</details>
+
+<details>
+<summary><b>Observation Controller</b> (3 operations)</summary>
+
+- Get Observations of Multiple Types For a User
+- Get Observations of a Certain Type For a User
+- Get patient entered Observations of a Certain Type For a User
+
+</details>
+
+<details>
+<summary><b>Observation Heading Controller</b> (2 operations)</summary>
+
+- Get Available Observations Types For a User
+- Get Available Patient Entered Observations Types For a User
+
+</details>
+
+<details>
+<summary><b>Patient Controller</b> (1 operations)</summary>
+
+- Get Basic Patient Information
+
+</details>
+
+<details>
+<summary><b>Patient Management Controller</b> (6 operations)</summary>
+
+- Get PatientManagementDiagnoses
+- Get PatientManagementLookupTypes
+- Post validatePatientManagement
+- Get PatientManagement
+- Post savePatientManagement
+- Post savePatientManagementSurgeries
+
+</details>
 
 ---
 

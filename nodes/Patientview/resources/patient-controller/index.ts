@@ -49,7 +49,7 @@ export const patientControllerDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "userId",
 			"required": true,
 			"description": "userId",
